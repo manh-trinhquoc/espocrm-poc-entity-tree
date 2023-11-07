@@ -1,0 +1,13 @@
+{
+    "module": "PocEntityTree",
+    "name": "Poc Entity Tree",
+    "description": "Create custom entity with tree structure like Document Folder.",
+    "author": "manhtq",
+    "bundled": true,
+    "acceptableVersions": [
+        ">=7.3.0"
+    ],
+    "php": [
+        ">=7.2"
+    ]
+}

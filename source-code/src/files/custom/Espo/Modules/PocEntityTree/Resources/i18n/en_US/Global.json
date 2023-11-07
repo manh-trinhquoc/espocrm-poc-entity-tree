@@ -1,0 +1,8 @@
+{
+    "scopeNames": {
+        "DemoEntity": "DemoEntity"
+    },
+    "scopeNamesPlural": {
+        "DemoEntity": "DemoEntities"
+    }
+}

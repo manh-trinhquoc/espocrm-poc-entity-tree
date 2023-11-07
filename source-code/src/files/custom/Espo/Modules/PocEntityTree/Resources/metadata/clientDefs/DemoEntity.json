@@ -1,0 +1,31 @@
+{
+    "controller": "controllers/record-tree",
+    "collection": "collections/tree",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+    "menu": {
+        "listTree": {
+            "buttons": [{
+                "label": "List View",
+                "link": "#DemoEntity/list",
+                "acl": "read",
+                "style": "default"
+            }]
+        },
+        "list": {
+            "buttons": [{
+                "label": "Tree View",
+                "link": "#DemoEntity",
+                "acl": "read",
+                "style": "default"
+            }]
+        }
+    },
+    "relationshipPanels": {
+        "children": {
+            "selectDisabled": true,
+            "unlinkDisabled": true
+        }
+    }
+}

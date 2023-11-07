@@ -44,7 +44,7 @@ Ex: khai báo thêm 1 bảng demo_entity_path với 3 collumn như sau
 - Tạo Entity template dạng cha con. Khi tạo thì tự động thêm các trường cần thiết
 
   - Request URL:
-  http://localhost/espocrm-poc-entity-tree/source-code/site/api/v1/EntityManager/action/createEntity
+  {siteUrl}/api/v1/EntityManager/action/createEntity
 
   - Request Method:
   POST
@@ -61,4 +61,4 @@ Ex: khai báo thêm 1 bảng demo_entity_path với 3 collumn như sau
     "stream": false,
     "type": "Base"
   }
-```
+  ```

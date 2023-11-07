@@ -2,6 +2,7 @@
 
 - Tạo custom entity có kiến trúc cha - con giống như DocumentFolder
 - Tạo 1 template cho entity cha - con
+- Cách query các record con, cách query các record cha
 
 ## Reverse engineering Espo
 - Trong folder ` Espo/Core/Templates ` chứa template cho các loại Entity: Base, BasePlus, CategoryTree, Company, Event, Person

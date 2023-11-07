@@ -38,6 +38,11 @@
         "parent": {
             "type": "link"
         },
+        "order": {
+            "type": "int",
+            "required": true,
+            "default": 1
+        },
         "childList": {
             "type": "jsonArray",
             "notStorable": true,
